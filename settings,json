@@ -1,9 +1,8 @@
 {
   "window.zoomLevel": 1,
-  "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": false,
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 18,
+  "editor.fontSize": 14,
   "editor.tabSize": 2,
   "editor.lineHeight": 1.8,
   "editor.rulers": [80, 120],
@@ -13,40 +12,36 @@
   "workbench.editor.labelFormat": "short",
   "explorer.compactFolders": false,
   "editor.semanticHighlighting.enabled": false,
-  "breadcrumbs.enabled": false,
-  "workbench.activityBar.location": "hidden",
   "editor.minimap.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "terminal.integrated.fontSize": 18,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-  "workbench.colorTheme": "Min Dark",
   "editor.wordWrap": "on",
   "editor.glyphMargin": false, // breakpoint debug desative
   "files.autoSave": "afterDelay",
-
-  "apc.header": {
-    "height": 36
-  },
-  "apc.listRow": {
-    "height": 24
-  },
-  "apc.font.family": "Inter",
-  "apc.stylesheet": {
-    ".title-label > h2": "display: none",
-    ".editor-actions": "display: none",
-    ".pane-body": "padding: 8px",
-    ".pane-header": "padding: 0 8px",
-  },
-
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.linkedEditing": true,
-  "workbench.statusBar.visible": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "breadcrumbs.enabled": false,
+  "git.confirmSync": false,
+  "workbench.sideBar.location": "right",
 
   // zen mode
   "zenMode.fullScreen": false,
   "zenMode.centerLayout": false,
   "zenMode.showTabs": "single",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.windows": {},
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "symbols",
+  "editor.cursorBlinking": "expand",
+  "workbench.colorTheme": "Palenight Operator",
+  "editor.cursorSmoothCaretAnimation": "on",
 }
