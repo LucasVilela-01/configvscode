@@ -5,7 +5,7 @@
   "editor.fontSize": 14,
   "editor.tabSize": 2,
   "editor.lineHeight": 1.8,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [80, 100],
   "workbench.startupEditor": "newUntitledFile",
   "editor.renderLineHighlight": "gutter",
   "editor.fontLigatures": true,
